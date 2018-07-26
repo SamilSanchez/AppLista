@@ -1,6 +1,6 @@
 import { ListaItem } from "../clases/lista-item";
 
-export class listas {
+export class Lista {
     nombre: string;
     terminada: boolean;
     items: ListaItem [];
